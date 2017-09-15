@@ -1,6 +1,7 @@
 # Sous-Vide
 SousVide Arduino Sketch
 
-Hello and welcome to my Arduino Sous Vide cooker.  You will want to follow the wiring diagram on buildtech.xyz and then upload the Arduino code to your Arduino.
+Hello and welcome to my Arduino Sous Vide cooker.  You will want to follow along with the project on buildtech.xyz and upload the Sous Vide code to your Arduino.
 
-Please be careful with this project as there are many areas where injury can occur.  I am not liable for anything that you build or any bugs in the code if you decide to proceed with this project.
+Please be careful.  There are many areas in this project where injury can occur.  I am not liable for any damage or injury if you decide to follow through with this project.
+
